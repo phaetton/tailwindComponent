@@ -1,0 +1,4 @@
+//poner elemento checked si viene true
+
+<input type="checkbox" [checked]="item.check == 'true'">
+Fuente: https://www.iteramos.com/pregunta/89240/angular-5-html-boolean-on-checkbox-is-checked
